@@ -1,8 +1,8 @@
 # 👋 Hello! I'm Zalmir dos Santos Paredes
 
-💼 Aspiring Software Developer (seeking my first opportunity)
-🌱 Studying: C# | .NET | MySQL | JavaScript | English 
-📫 Contact: zalmirparedes@gmail.com 
+💼 Aspiring Software Developer (seeking my first opportunity)  
+🌱 Studying: C# | .NET | MySQL | JavaScript | English  
+📫 Contact: zalmirparedes@gmail.com  
 
 💻 About Me
 
