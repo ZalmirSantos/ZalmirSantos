@@ -1,4 +1,4 @@
-##👋 Hello! I'm Zalmir dos Santos Paredes
+👋 Hello! I'm Zalmir dos Santos Paredes
 
 📌 Aspiring Software Developer (seeking my first opportunity)
 🌱 Currently studying: C# | .NET | MySQL | JavaScript | English
